@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Votan/True/SqlTable/dbo.Votantes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2104B9-231A-48D7-B1E1-BBFFB6861840}|VotacionesWebFront\\VotacionesWebFront.csproj|c:\\users\\kevin\\desktop\\prueba\\votacioneswebapi\\votacioneswebfront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2104B9-231A-48D7-B1E1-BBFFB6861840}|VotacionesWebFront\\VotacionesWebFront.csproj|solutionrelative:votacioneswebfront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2104B9-231A-48D7-B1E1-BBFFB6861840}|VotacionesWebFront\\VotacionesWebFront.csproj|c:\\users\\kevin\\desktop\\prueba\\votacioneswebapi\\votacioneswebfront\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2104B9-231A-48D7-B1E1-BBFFB6861840}|VotacionesWebFront\\VotacionesWebFront.csproj|solutionrelative:votacioneswebfront\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2104B9-231A-48D7-B1E1-BBFFB6861840}|VotacionesWebFront\\VotacionesWebFront.csproj|c:\\users\\kevin\\desktop\\prueba\\votacioneswebapi\\votacioneswebfront\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2104B9-231A-48D7-B1E1-BBFFB6861840}|VotacionesWebFront\\VotacionesWebFront.csproj|solutionrelative:votacioneswebfront\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2104B9-231A-48D7-B1E1-BBFFB6861840}|VotacionesWebFront\\VotacionesWebFront.csproj|c:\\users\\kevin\\desktop\\prueba\\votacioneswebapi\\votacioneswebfront\\pages\\votantes\\votantesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2104B9-231A-48D7-B1E1-BBFFB6861840}|VotacionesWebFront\\VotacionesWebFront.csproj|solutionrelative:votacioneswebfront\\pages\\votantes\\votantesindex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\VotacionesWebFront\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "VotacionesWebFront\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\VotacionesWebFront\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "VotacionesWebFront\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T00:13:33.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Votantes.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Votan/True/SqlTable/dbo.Votantes.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Votan/True/SqlTable/dbo.Votantes.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-06T00:01:28.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\VotacionesWebFront\\Program.cs",
+              "RelativeDocumentMoniker": "VotacionesWebFront\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\VotacionesWebFront\\Program.cs",
+              "RelativeToolTip": "VotacionesWebFront\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:58:12.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\VotacionesWebFront\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "VotacionesWebFront\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\VotacionesWebFront\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "VotacionesWebFront\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T23:44:00.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VotantesIndex.razor",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\VotacionesWebFront\\Pages\\Votantes\\VotantesIndex.razor",
+              "RelativeDocumentMoniker": "VotacionesWebFront\\Pages\\Votantes\\VotantesIndex.razor",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\VotacionesWebApi\\VotacionesWebFront\\Pages\\Votantes\\VotantesIndex.razor",
+              "RelativeToolTip": "VotacionesWebFront\\Pages\\Votantes\\VotantesIndex.razor",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T23:39:15.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

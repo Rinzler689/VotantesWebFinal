@@ -1,0 +1,6 @@
+@VotacionesWebBack_HostAddress = http://localhost:5145
+
+GET {{VotacionesWebBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

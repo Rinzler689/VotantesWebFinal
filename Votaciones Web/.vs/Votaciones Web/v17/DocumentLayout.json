@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|c:\\users\\kevin\\desktop\\prueba\\votaciones web\\votaciones web\\vista\\fin elecciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|solutionrelative:votaciones web\\vista\\fin elecciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\votaciones web\\vista\\fin elecciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|solutionrelative:votaciones web\\vista\\fin elecciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\votaciones web\\vista\\votar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|solutionrelative:votaciones web\\vista\\votar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\votaciones web\\vista\\votar.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|solutionrelative:votaciones web\\vista\\votar.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\votaciones web\\vista\\votar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|solutionrelative:votaciones web\\vista\\votar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\votaciones web\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B253D827-27FD-47FB-A2B3-C799FA65EE3C}|Votaciones Web\\Votaciones Web.csproj|solutionrelative:votaciones web\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fin Elecciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Fin Elecciones.aspx.cs",
+              "RelativeDocumentMoniker": "Votaciones Web\\Vista\\Fin Elecciones.aspx.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Fin Elecciones.aspx.cs",
+              "RelativeToolTip": "Votaciones Web\\Vista\\Fin Elecciones.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:07:37.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fin Elecciones.aspx",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Fin Elecciones.aspx",
+              "RelativeDocumentMoniker": "Votaciones Web\\Vista\\Fin Elecciones.aspx",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Fin Elecciones.aspx",
+              "RelativeToolTip": "Votaciones Web\\Vista\\Fin Elecciones.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-05T06:34:07.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Votar.aspx",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Votar.aspx",
+              "RelativeDocumentMoniker": "Votaciones Web\\Vista\\Votar.aspx",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Votar.aspx",
+              "RelativeToolTip": "Votaciones Web\\Vista\\Votar.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-05T06:33:10.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Votar.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Votar.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Votaciones Web\\Vista\\Votar.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Votar.aspx.designer.cs",
+              "RelativeToolTip": "Votaciones Web\\Vista\\Votar.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:33:07.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Votar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Votar.aspx.cs",
+              "RelativeDocumentMoniker": "Votaciones Web\\Vista\\Votar.aspx.cs",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Vista\\Votar.aspx.cs",
+              "RelativeToolTip": "Votaciones Web\\Vista\\Votar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:33:06.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Site.Master",
+              "RelativeDocumentMoniker": "Votaciones Web\\Site.Master",
+              "ToolTip": "C:\\Users\\kevin\\Desktop\\PRUEBA\\Votaciones Web\\Votaciones Web\\Site.Master",
+              "RelativeToolTip": "Votaciones Web\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-05T06:28:40.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
