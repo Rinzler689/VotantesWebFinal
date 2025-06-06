@@ -2084,9 +2084,6 @@ C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\j401f8y7gh-oyz0vx2fzb.gz
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\bmk7ddovy9-oihi9fvl6l.gz
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\0oc9kgvu90-ul7qqtfd2x.gz
-C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\vm4fegq4s5-t7ma18vs8u.gz
-C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\sim20mbliv-lol8kixmah.gz
-C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\1d6gyhmocp-r6gifkb02l.gz
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2102,3 +2099,7 @@ C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\refint\VotacionesWebFront.dll
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\VotacionesWebFront.pdb
 C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\ref\VotacionesWebFront.dll
+C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\VotacionesWebFront.sourcelink.json
+C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\vm4fegq4s5-c0pmiypbtm.gz
+C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\sim20mbliv-nlsogjayl4.gz
+C:\Users\kevin\Desktop\PRUEBA\VotacionesWebApi\VotacionesWebFront\obj\Debug\net8.0\compressed\1d6gyhmocp-xo8iuc47l1.gz
